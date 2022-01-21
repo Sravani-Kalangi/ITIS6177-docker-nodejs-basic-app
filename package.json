@@ -1,0 +1,23 @@
+{
+  "name": "itis6177-docker-nodejs-basic-app",
+  "version": "1.0.0",
+  "description": "ITIS6177 week1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sravani-Kalangi/ITIS6177-docker-nodejs-basic-app.git"
+  },
+  "author": "Sravani Kalangi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sravani-Kalangi/ITIS6177-docker-nodejs-basic-app/issues"
+  },
+  "homepage": "https://github.com/Sravani-Kalangi/ITIS6177-docker-nodejs-basic-app#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
